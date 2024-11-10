@@ -2433,7 +2433,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000025"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unfixed fully hydrated tissue, typically employed to monitor dynamic changes in the living state.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XX:ISBN978-087969683-2</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISBN:978-087969683-2</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -2575,7 +2575,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000037"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staining with an aqueous or alcoholic solution of eosin Y,colors eosinophilic structures in various shades of red, pink and orange. The eosinophilic structures are generally composed of intracellular or extracellular protein. The Lewy bodies and Mallory bodies are examples of eosinophilic structures. Most of the cytoplasm is eosinophilic. Red blood cells are stained intensely red.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia:H%26E_stain</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -2630,7 +2630,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000041"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The staining method involves application of hemalum, which is a complex formed from aluminium ions and oxidized haematoxylin. This colors nuclei of cells (and a few other objects, such as keratohyalin granules) blue. The staining of nuclei by hemalum does not require the presence of DNA and is probably due to binding of the dye-metal complex to arginine-rich basic nucleoproteins such as histones. The mechanism is different from that of nuclear staining by basic (cationic) dyes such as thionine or toluidine blue. Staining by basic dyes is prevented by chemical or enzymatic extraction of nucleic acids. Such extractions do not prevent staining of nuclei by hemalum.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia:http://en.wikipedia.org/wiki/H%26E_stain</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia:H%26E_stain</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -5558,7 +5558,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000241"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FBbi_00001001"/>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://en.wikipedia.org/wiki/X-ray_microscope</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wikipedia:X-ray_microscope</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image</oboInOwl:hasOBONamespace>
         <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FBbi:00000260</oboInOwl:id>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X-ray microscopy</rdfs:label>
@@ -5992,7 +5992,6 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000291"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Illumination is distributed asymmetrically around the optic axis, typically achieved by a non-circular stop placed below the lower lens element and aperture of the condenser.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">:</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -7096,7 +7095,6 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00000366"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fluorescence loss in photobleaching; a method of determining the rate and extent of exchange between a localized population of fluorophore and a non-localized diffusible pool, by observing the rate of recovery of brightness of the localized population after photobleaching.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XX:-new-dbxref-</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -10790,7 +10788,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/FBbi_00001000"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An imaging technique that uses high energy electromagnetic radiation, typically X-rays, as a source of illumination.</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://en.wikipedia.org/w/index.php?title=Radiography&amp;oldid=606628211</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wikipedia:Radiography</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -10844,7 +10842,7 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FBbi_00001003"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FBbi_00001005"/>
         <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MeSH:D014057</oboInOwl:hasDbXref>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://en.wikipedia.org/wiki/X-ray_computed_tomography</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wikipedia:X-ray_computed_tomography</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAT scan</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CT scan</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">X-ray CT</oboInOwl:hasExactSynonym>
